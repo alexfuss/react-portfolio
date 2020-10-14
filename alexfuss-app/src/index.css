@@ -16,7 +16,7 @@ body {
   float: right;
 }
 
-nav {
+.nav {
   background-color: #00A;
   box-shadow: 2px 2px 4px rgb(77, 77, 77);
 }
