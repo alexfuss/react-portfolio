@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import 'font-awesome/css/font-awesome.min.css';
 
 export default class Home extends Component {
         render() {
