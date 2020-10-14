@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import 'bootstrap/dist/css/bootstrap.min.css';
 
 export default class Home extends Component {
         render() {
@@ -11,7 +10,7 @@ export default class Home extends Component {
                     <div className="col-md-12">
                       <h1 className="display-4">Hi, I'm Alex</h1>
                       {/*Link below for Avatar comes from Cartoon Yourself Chrome extension*/}
-                      <img src="./assets/Avatar-Maker.svg" alt="Alex Fuss" className="main-img" />
+                      <img src="../../public/Images/Avatar-Maker.svg" alt="Alex Fuss" className="main-img" />
                       <br />
                       <h2>I'm a SEO Professional &amp; Full-Stack Web Developer</h2>
                       <br />
