@@ -6,6 +6,19 @@ import { SiJavascript } from 'react-icons/si';
 import { FiDatabase, FiMail } from 'react-icons/fi';
 
 export default class Home extends Component {
+
+  githubClick() {
+    window.open("https://github.com/alexfuss");
+}
+
+  linkedClick() {
+    window.open("https://www.linkedin.com/in/alexander-fuss-3ab08a106/");
+}
+
+  mailClick() {
+    window.open("mailto:alexfuss2@gmail.com");
+}
+
         render() {
           return (
             <div>
@@ -52,18 +65,15 @@ export default class Home extends Component {
                   </div>
                   <div className="row personal-links">
                     <div className="col-md-4 col-4 col-lg-4">
-                      <FaGithub className="fa-3x">
-                      <a className="btn btn-link btn-lg btn-outline-primary" href="https://github.com/alexfuss" role="button"></a>
+                      <FaGithub className="fa-3x" cssClass='e-link' onClick={this.githubClick.bind(this)} role="button">
                       </FaGithub>
                     </div>
                     <div className="col-md-4 col-4 col-lg-4">
-                     <FaLinkedinIn className="fa-3x">
-                      <a className="btn btn-link btn-lg btn-outline-primary" href="https://www.linkedin.com/in/alexander-fuss-3ab08a106/" role="button"></a>
+                     <FaLinkedinIn className="fa-3x" role="button" cssClass='e-link' onClick={this.linkedClick.bind(this)} >
                       </FaLinkedinIn>
                     </div>
                     <div className="col-md-4 col-4 col-lg-4">
-                      <FiMail className="fa-3x">
-                      <a className="btn btn-link btn-lg btn-outline-primary" href="mailto:alexfuss2@gmail.com" role="button"></a>
+                      <FiMail className="fa-3x" role="button" cssClass='e-link' onClick={this.mailClick.bind(this)} >
                       </FiMail>
                     </div>
                   </div>
