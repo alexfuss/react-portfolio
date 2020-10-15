@@ -1,6 +1,9 @@
 import React, { Component } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import 'font-awesome/css/font-awesome.min.css';
+import { FaCode, FaCodepen, FaGithub, FaLinkedinIn, FaRegSmileBeam } from 'react-icons/fa';
+import { SiJavascript } from 'react-icons/si';
+import { FiDatabase, FiMail } from 'react-icons/fi';
 
 export default class Home extends Component {
         render() {
@@ -31,10 +34,10 @@ export default class Home extends Component {
                 <div className="row">
                   <div className="col-md-12">
                     <section className="icons">
-                      <FontAwesomeIcon icon={"fas fa-code fa-3x fa-icon"} style={{color: '#00A'}} />
-                      <FontAwesomeIcon icon={"fab fa-js fa-3x fa-icon"} style={{color: '#00A'}} />
-                      <FontAwesomeIcon icon={"fab fa-css3-alt fa-3x fa-icon"} style={{color: '#00A'}} />
-                      <FontAwesomeIcon icon={"fab fa-codepen fa-3x fa-icon"} style={{color: '#00A'}} />
+                      <FaCode className="fa-icon fa-3x" style={{color: "#00A" }} />
+                      <FaCodepen className="fa-icon fa-3x" style={{color: "#00A" }} />
+                      <SiJavascript className="fa-icon fa-3x" style={{color: "#00A" }} />
+                      <FiDatabase className="fa-icon fa-3x" style={{color: "#00A" }} />
                     </section>
                   </div>
                 </div>
@@ -49,19 +52,19 @@ export default class Home extends Component {
                   </div>
                   <div className="row personal-links">
                     <div className="col-md-4 col-4 col-lg-4">
-                      <FontAwesomeIcon icon={"fab fa-github fa-3x"} >
+                      <FaGithub>
                       <a className="btn btn-link btn-lg btn-outline-primary" href="https://github.com/alexfuss" role="button"></a>
-                      </FontAwesomeIcon>
+                      </FaGithub>
                     </div>
                     <div className="col-md-4 col-4 col-lg-4">
-                      <FontAwesomeIcon icon={"fab fa-linkedin-in fa-3x"} >
+                     <FaLinkedinIn>
                       <a className="btn btn-link btn-lg btn-outline-primary" href="https://www.linkedin.com/in/alexander-fuss-3ab08a106/" role="button"></a>
-                      </FontAwesomeIcon>
+                      </FaLinkedinIn>
                     </div>
                     <div className="col-md-4 col-4 col-lg-4">
-                      <FontAwesomeIcon icon ={"fas fa-envelope-square fa-3x"} >
+                      <FiMail>
                       <a className="btn btn-link btn-lg btn-outline-primary" href="mailto:alexfuss2@gmail.com" role="button"></a>
-                      </FontAwesomeIcon>
+                      </FiMail>
                     </div>
                   </div>
                 </div>
@@ -71,7 +74,7 @@ export default class Home extends Component {
                   <div className="col-md-12 col-12 col-lg-12">
                     <footer className="footer">
                       <p className="font-italic text-uppercase">Copyright</p>
-                      <FontAwesomeIcon icon={"far fa-smile-beam fa-2x"} style={{color: '#00A'}} />
+                      <FaRegSmileBeam className="fa-2x" style={{color: "#00A" }} />
                     </footer>
                   </div>
                 </div>
