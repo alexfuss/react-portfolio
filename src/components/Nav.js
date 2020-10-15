@@ -7,7 +7,7 @@ export default class Menu extends Component {
         return (
           <div>
           <Navbar collapseOnSelect expand="lg" className="nav navbar">
-          <img src={process.env.PUBLIC_URL + 'Images/16996ff1-4730-4e2e-8147-4f3cbe28dbbe_200x200.png'} width={50} height={50} alt="AF custom logo" loading="lazy" className="nav-img" />
+          <img src={process.env.PUBLIC_URL + '/Images/16996ff1-4730-4e2e-8147-4f3cbe28dbbe_200x200.png'} width={50} height={50} alt="AF custom logo" loading="lazy" className="nav-img" />
             <Navbar.Toggle />
             <Navbar.Collapse>
               <Nav className="mr-auto nav-item">
@@ -20,4 +20,3 @@ export default class Menu extends Component {
       );
     }
 }
-
