@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/alexfuss/react-portfolio/static/css/main.594e7476.chunk.css",
-    "main.js": "/alexfuss/react-portfolio/static/js/main.e0939253.chunk.js",
-    "main.js.map": "/alexfuss/react-portfolio/static/js/main.e0939253.chunk.js.map",
-    "runtime-main.js": "/alexfuss/react-portfolio/static/js/runtime-main.6bd61374.js",
-    "runtime-main.js.map": "/alexfuss/react-portfolio/static/js/runtime-main.6bd61374.js.map",
-    "static/css/2.c476735f.chunk.css": "/alexfuss/react-portfolio/static/css/2.c476735f.chunk.css",
-    "static/js/2.6484bcb1.chunk.js": "/alexfuss/react-portfolio/static/js/2.6484bcb1.chunk.js",
-    "static/js/2.6484bcb1.chunk.js.map": "/alexfuss/react-portfolio/static/js/2.6484bcb1.chunk.js.map",
-    "index.html": "/alexfuss/react-portfolio/index.html",
-    "precache-manifest.7f73beff5237146e6a8558995692e383.js": "/alexfuss/react-portfolio/precache-manifest.7f73beff5237146e6a8558995692e383.js",
-    "service-worker.js": "/alexfuss/react-portfolio/service-worker.js",
-    "static/css/2.c476735f.chunk.css.map": "/alexfuss/react-portfolio/static/css/2.c476735f.chunk.css.map",
-    "static/css/main.594e7476.chunk.css.map": "/alexfuss/react-portfolio/static/css/main.594e7476.chunk.css.map",
-    "static/js/2.6484bcb1.chunk.js.LICENSE.txt": "/alexfuss/react-portfolio/static/js/2.6484bcb1.chunk.js.LICENSE.txt",
-    "static/media/font-awesome.min.css": "/alexfuss/react-portfolio/static/media/fontawesome-webfont.fee66e71.woff"
+    "main.css": "/alexfuss/react-portfolio/tree/main/alexfuss-app/static/css/main.594e7476.chunk.css",
+    "main.js": "/alexfuss/react-portfolio/tree/main/alexfuss-app/static/js/main.cba073fc.chunk.js",
+    "main.js.map": "/alexfuss/react-portfolio/tree/main/alexfuss-app/static/js/main.cba073fc.chunk.js.map",
+    "runtime-main.js": "/alexfuss/react-portfolio/tree/main/alexfuss-app/static/js/runtime-main.5faad6e5.js",
+    "runtime-main.js.map": "/alexfuss/react-portfolio/tree/main/alexfuss-app/static/js/runtime-main.5faad6e5.js.map",
+    "static/css/2.2372b14b.chunk.css": "/alexfuss/react-portfolio/tree/main/alexfuss-app/static/css/2.2372b14b.chunk.css",
+    "static/js/2.6484bcb1.chunk.js": "/alexfuss/react-portfolio/tree/main/alexfuss-app/static/js/2.6484bcb1.chunk.js",
+    "static/js/2.6484bcb1.chunk.js.map": "/alexfuss/react-portfolio/tree/main/alexfuss-app/static/js/2.6484bcb1.chunk.js.map",
+    "index.html": "/alexfuss/react-portfolio/tree/main/alexfuss-app/index.html",
+    "precache-manifest.2aec5e93e2a8de3aa71167c4d7abf945.js": "/alexfuss/react-portfolio/tree/main/alexfuss-app/precache-manifest.2aec5e93e2a8de3aa71167c4d7abf945.js",
+    "service-worker.js": "/alexfuss/react-portfolio/tree/main/alexfuss-app/service-worker.js",
+    "static/css/2.2372b14b.chunk.css.map": "/alexfuss/react-portfolio/tree/main/alexfuss-app/static/css/2.2372b14b.chunk.css.map",
+    "static/css/main.594e7476.chunk.css.map": "/alexfuss/react-portfolio/tree/main/alexfuss-app/static/css/main.594e7476.chunk.css.map",
+    "static/js/2.6484bcb1.chunk.js.LICENSE.txt": "/alexfuss/react-portfolio/tree/main/alexfuss-app/static/js/2.6484bcb1.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/alexfuss/react-portfolio/tree/main/alexfuss-app/static/media/fontawesome-webfont.fee66e71.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.6bd61374.js",
-    "static/css/2.c476735f.chunk.css",
+    "static/js/runtime-main.5faad6e5.js",
+    "static/css/2.2372b14b.chunk.css",
     "static/js/2.6484bcb1.chunk.js",
     "static/css/main.594e7476.chunk.css",
-    "static/js/main.e0939253.chunk.js"
+    "static/js/main.cba073fc.chunk.js"
   ]
 }
