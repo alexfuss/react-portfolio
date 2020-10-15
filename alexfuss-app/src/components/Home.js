@@ -52,17 +52,17 @@ export default class Home extends Component {
                   </div>
                   <div className="row personal-links">
                     <div className="col-md-4 col-4 col-lg-4">
-                      <FaGithub>
+                      <FaGithub className="fa-3x">
                       <a className="btn btn-link btn-lg btn-outline-primary" href="https://github.com/alexfuss" role="button"></a>
                       </FaGithub>
                     </div>
                     <div className="col-md-4 col-4 col-lg-4">
-                     <FaLinkedinIn>
+                     <FaLinkedinIn className="fa-3x">
                       <a className="btn btn-link btn-lg btn-outline-primary" href="https://www.linkedin.com/in/alexander-fuss-3ab08a106/" role="button"></a>
                       </FaLinkedinIn>
                     </div>
                     <div className="col-md-4 col-4 col-lg-4">
-                      <FiMail>
+                      <FiMail className="fa-3x">
                       <a className="btn btn-link btn-lg btn-outline-primary" href="mailto:alexfuss2@gmail.com" role="button"></a>
                       </FiMail>
                     </div>
