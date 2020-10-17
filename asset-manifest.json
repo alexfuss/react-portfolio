@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/alexfuss/react-portfolio/static/css/main.f0612fbd.chunk.css",
-    "main.js": "/alexfuss/react-portfolio/static/js/main.2cd95cce.chunk.js",
-    "main.js.map": "/alexfuss/react-portfolio/static/js/main.2cd95cce.chunk.js.map",
-    "runtime-main.js": "/alexfuss/react-portfolio/static/js/runtime-main.6bd61374.js",
-    "runtime-main.js.map": "/alexfuss/react-portfolio/static/js/runtime-main.6bd61374.js.map",
-    "static/css/2.c476735f.chunk.css": "/alexfuss/react-portfolio/static/css/2.c476735f.chunk.css",
-    "static/js/2.6484bcb1.chunk.js": "/alexfuss/react-portfolio/static/js/2.6484bcb1.chunk.js",
-    "static/js/2.6484bcb1.chunk.js.map": "/alexfuss/react-portfolio/static/js/2.6484bcb1.chunk.js.map",
-    "index.html": "/alexfuss/react-portfolio/index.html",
-    "precache-manifest.971d24f46cc4804eb16da32f96af6c97.js": "/alexfuss/react-portfolio/precache-manifest.971d24f46cc4804eb16da32f96af6c97.js",
-    "service-worker.js": "/alexfuss/react-portfolio/service-worker.js",
-    "static/css/2.c476735f.chunk.css.map": "/alexfuss/react-portfolio/static/css/2.c476735f.chunk.css.map",
-    "static/css/main.f0612fbd.chunk.css.map": "/alexfuss/react-portfolio/static/css/main.f0612fbd.chunk.css.map",
-    "static/js/2.6484bcb1.chunk.js.LICENSE.txt": "/alexfuss/react-portfolio/static/js/2.6484bcb1.chunk.js.LICENSE.txt",
-    "static/media/font-awesome.min.css": "/alexfuss/react-portfolio/static/media/fontawesome-webfont.fee66e71.woff"
+    "main.css": "/react-portfolio/static/css/main.f0612fbd.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.f9cf494e.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.f9cf494e.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.862ae339.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.862ae339.js.map",
+    "static/css/2.662d4284.chunk.css": "/react-portfolio/static/css/2.662d4284.chunk.css",
+    "static/js/2.6484bcb1.chunk.js": "/react-portfolio/static/js/2.6484bcb1.chunk.js",
+    "static/js/2.6484bcb1.chunk.js.map": "/react-portfolio/static/js/2.6484bcb1.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "precache-manifest.2fc13a98d1b55db126ad00abbbd1a8be.js": "/react-portfolio/precache-manifest.2fc13a98d1b55db126ad00abbbd1a8be.js",
+    "service-worker.js": "/react-portfolio/service-worker.js",
+    "static/css/2.662d4284.chunk.css.map": "/react-portfolio/static/css/2.662d4284.chunk.css.map",
+    "static/css/main.f0612fbd.chunk.css.map": "/react-portfolio/static/css/main.f0612fbd.chunk.css.map",
+    "static/js/2.6484bcb1.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.6484bcb1.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/react-portfolio/static/media/fontawesome-webfont.fee66e71.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.6bd61374.js",
-    "static/css/2.c476735f.chunk.css",
+    "static/js/runtime-main.862ae339.js",
+    "static/css/2.662d4284.chunk.css",
     "static/js/2.6484bcb1.chunk.js",
     "static/css/main.f0612fbd.chunk.css",
-    "static/js/main.2cd95cce.chunk.js"
+    "static/js/main.f9cf494e.chunk.js"
   ]
 }
